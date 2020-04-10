@@ -3,4 +3,4 @@ SwiftUi Tutorial project
 
 
 
-![sample](sample.png)
+![sample](example.png)
